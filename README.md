@@ -2,4 +2,6 @@
 
 NodeJS + MongoDB API for User Management, Authentication and Registration
 
-For documentation and instructions check out http://jasonwatmore.com/post/2018/06/14/nodejs-mongodb-simple-api-for-authentication-registration-and-user-management
+Based on https://github.com/cornflourblue/node-mongo-registration-login-api.git
+
+Backend modified for project2-radio. Added Favourite features.
